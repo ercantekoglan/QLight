@@ -1,0 +1,21 @@
+C:\zz\OK\Usb\VC#10_X64_X64_Comfile\obj\x64\Release\ResolveAssemblyReference.cache
+C:\zz\OK\Usb\VC#10_X64_X64_Comfile\obj\x64\Release\WindowsFormsApplication1.Form1.resources
+C:\zz\OK\Usb\VC#10_X64_X64_Comfile\obj\x64\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\zz\OK\Usb\VC#10_X64_X64_Comfile\obj\x64\Release\ResGen.read.1.tlog
+C:\zz\OK\Usb\VC#10_X64_X64_Comfile\obj\x64\Release\ResGen.write.1.tlog
+C:\zz\OK\Usb\VC#10_X64_X64_Comfile\bin\x64\Release\WindowsFormsApplication1.exe
+C:\zz\OK\Usb\VC#10_X64_X64_Comfile\obj\x64\Release\WindowsFormsApplication1.exe
+C:\zz\OK_CPY\Usb\VC#10_X64_X64_Comfile\obj\x64\Release\WindowsFormsApplication1.exe
+C:\zz\OK_CPY\Usb\VC#10_X64_X64_Comfile\bin\x64\Release\WindowsFormsApplication1.exe
+C:\zz\OK_CPY\Usb\VC#10_X64_X64_Comfile\obj\x64\Release\ResolveAssemblyReference.cache
+C:\zz\OK_CPY\Usb\VC#10_X64_X64_Comfile\obj\x64\Release\WindowsFormsApplication1.Form1.resources
+C:\zz\OK_CPY\Usb\VC#10_X64_X64_Comfile\obj\x64\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\zz\OK_CPY\Usb\VC#10_X64_X64_Comfile\obj\x64\Release\ResGen.read.1.tlog
+C:\zz\OK_CPY\Usb\VC#10_X64_X64_Comfile\obj\x64\Release\ResGen.write.1.tlog
+C:\Users\ercan\OneDrive\Desktop\QLight\1. Dev. USB Program Sample\2. Sample Program(x64)\2.C#\VC#10_X64_X64_Comfile\bin\x64\Release\WindowsFormsApplication1.exe
+C:\Users\ercan\OneDrive\Desktop\QLight\1. Dev. USB Program Sample\2. Sample Program(x64)\2.C#\VC#10_X64_X64_Comfile\obj\x64\Release\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\ercan\OneDrive\Desktop\QLight\1. Dev. USB Program Sample\2. Sample Program(x64)\2.C#\VC#10_X64_X64_Comfile\obj\x64\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\ercan\OneDrive\Desktop\QLight\1. Dev. USB Program Sample\2. Sample Program(x64)\2.C#\VC#10_X64_X64_Comfile\obj\x64\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ercan\OneDrive\Desktop\QLight\1. Dev. USB Program Sample\2. Sample Program(x64)\2.C#\VC#10_X64_X64_Comfile\obj\x64\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\ercan\OneDrive\Desktop\QLight\1. Dev. USB Program Sample\2. Sample Program(x64)\2.C#\VC#10_X64_X64_Comfile\obj\x64\Release\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ercan\OneDrive\Desktop\QLight\1. Dev. USB Program Sample\2. Sample Program(x64)\2.C#\VC#10_X64_X64_Comfile\obj\x64\Release\WindowsFormsApplication1.exe

@@ -1,0 +1,15 @@
+C:\Users\jeho\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\jeho\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\jeho\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jeho\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jeho\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\jeho\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\jeho\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\zz\shap\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\zz\shap\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\zz\shap\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\zz\shap\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\zz\shap\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\zz\shap\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\zz\shap\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\zz\shap\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources

@@ -1,0 +1,34 @@
+C:\Users\jeho\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\jeho\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\jeho\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jeho\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\jeho\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\jeho\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\jeho\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\zz\shap\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\zz\shap\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\zz\shap\WindowsFormsApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\zz\shap\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\zz\shap\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\zz\shap\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\zz\shap\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\zz\shap\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\zz\QL_xx\NData\QL_USB_C#9_X64_X64_COMFILE\obj\Debug\WindowsFormsApplication1.exe
+C:\zz\QL_xx\NData\QL_USB_C#9_X64_X64_COMFILE\obj\Debug\WindowsFormsApplication1.pdb
+C:\zz\QL_xx\NData\QL_USB_C#9_X64_X64_COMFILE\bin\Debug\WindowsFormsApplication1.exe
+C:\zz\QL_xx\NData\QL_USB_C#9_X64_X64_COMFILE\bin\Debug\WindowsFormsApplication1.pdb
+C:\zz\QL_xx\NData\QL_USB_C#9_X64_X64_COMFILE\obj\Debug\ResolveAssemblyReference.cache
+C:\zz\QL_xx\NData\QL_USB_C#9_X64_X64_COMFILE\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\zz\QL_xx\NData\QL_USB_C#9_X64_X64_COMFILE\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\zz\QL_xx\NData\QL_USB_C#9_X64_X64_COMFILE\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\zz\OK\Usb\VC#10_X64_X64_Comfile\obj\Debug\WindowsFormsApplication1.exe
+C:\zz\OK\Usb\VC#10_X64_X64_Comfile\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ercan\OneDrive\Desktop\QLight\1. Dev. USB Program Sample\2. Sample Program(x64)\2.C#\VC#10_X64_X64_Comfile\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ercan\OneDrive\Desktop\QLight\1. Dev. USB Program Sample\2. Sample Program(x64)\2.C#\VC#10_X64_X64_Comfile\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ercan\OneDrive\Desktop\QLight\1. Dev. USB Program Sample\2. Sample Program(x64)\2.C#\VC#10_X64_X64_Comfile\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\ercan\OneDrive\Desktop\QLight\1. Dev. USB Program Sample\2. Sample Program(x64)\2.C#\VC#10_X64_X64_Comfile\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ercan\OneDrive\Desktop\QLight\1. Dev. USB Program Sample\2. Sample Program(x64)\2.C#\VC#10_X64_X64_Comfile\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ercan\OneDrive\Desktop\QLight\1. Dev. USB Program Sample\2. Sample Program(x64)\2.C#\VC#10_X64_X64_Comfile\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\ercan\OneDrive\Desktop\QLight\1. Dev. USB Program Sample\2. Sample Program(x64)\2.C#\VC#10_X64_X64_Comfile\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\ercan\OneDrive\Desktop\QLight\1. Dev. USB Program Sample\2. Sample Program(x64)\2.C#\VC#10_X64_X64_Comfile\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ercan\OneDrive\Desktop\QLight\1. Dev. USB Program Sample\2. Sample Program(x64)\2.C#\VC#10_X64_X64_Comfile\obj\Debug\WindowsFormsApplication1.pdb
